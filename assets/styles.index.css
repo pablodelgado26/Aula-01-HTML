@@ -56,6 +56,17 @@ aside {
     width: 25%;
 }
 
+footer {
+    background-color: #fa87ee;
+    border-radius: 6px;
+    margin: 10px 0;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 
 
 
